@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dvs-training-onec",
+  "version": "0.6.0",
+  "description": "Пробная загрузка отправления",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "1С · учебный плагин",
+        "shortDescription": "Пробная загрузка отправления",
+        "category": "Productivity"
+      }
+    }
+  }
+}

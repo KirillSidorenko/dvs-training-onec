@@ -1,0 +1,11 @@
+{
+  "name": "dvs-training-onec",
+  "version": "0.6.0",
+  "description": "Пробная загрузка отправления",
+  "interface": {
+    "displayName": "1С · учебный плагин",
+    "shortDescription": "Пробная загрузка отправления",
+    "category": "Productivity"
+  },
+  "mcpServers": "./.mcp.json"
+}

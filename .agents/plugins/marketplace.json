@@ -1,0 +1,20 @@
+{
+  "name": "dvs-training-onec",
+  "interface": {
+    "displayName": "Diversity · 1С · учебный стенд"
+  },
+  "plugins": [
+    {
+      "name": "dvs-training-onec",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dvs-training-onec"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
